@@ -17,7 +17,7 @@ your Python code to “read” the data into a Data-frame.
 
 Other content includes: 
 
-1. Tree Tuning Cases.csv -> Word Document with answers to given questions 
+1. ensemble_methods_answers.docx -> Word Document with answers to given questions 
 
 ----------------------------------------------------------------------------------------- 
 ## Computer Assignment Road Map
